@@ -32,6 +32,6 @@
         1) const name: str = "Jonas";
         2) let age: u8 = 21;
 
-## VARIABLE SCOPE
+## Variable scope
 
     - variables follow block scope
